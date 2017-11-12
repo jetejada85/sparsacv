@@ -1,0 +1,88 @@
+body
+{
+	background:Wheat;
+	font-family:verdana;
+	font-size:12pt;
+	text-align: justify;
+	color: black;
+	margin:auto	
+}
+#contenedor
+{
+	width:100%;
+	margin: auto;
+}
+#cabecera
+{
+	width: 100%;
+	border:2px;
+	font-family:verdana;
+	text-align: center;
+	margin: auto;
+	position: relative;
+	aling-items: center
+	justify-content: center
+}
+
+#navegador
+{
+	width: 100%;
+	background: PaleGreen;
+	padding: 3px, 0px, 5px, 10px;
+	border-top: 1px solid white;
+	border-bottom: 1px, solid white;
+	text-align: center;
+}
+#cuerpo1
+{
+	width: 70%;
+	font-family:verdana;
+	font-size:12pt;
+	text-align: justify;
+	background:RoyalBlue;
+	margin-left: 1%;
+	margin-right: 0.5%;
+	margin-top:0.5%;
+	margin-bottom: 0.5%;
+	float: left;
+	padding: 3px, 0px, 5px, 10px;
+}
+#cuerpo2
+{
+	width: 27%;
+	font-family:verdana;
+	text-align: justify;
+	background:DarkCyan;
+	float: right;
+	margin-left: 1%;
+	margin-right: 0.5%;
+	margin-top:0.5%;
+	margin-bottom: 0.5%;
+	padding: 3px, 0px, 5px, 10px;
+	font-size:10pt;
+}	
+
+#navabajo
+{
+	widows: 98%;
+	background: #F5F4C3;
+	font: bold;
+	float: right;
+	width: 100%;
+	text-align: center;
+	
+}
+
+A.enlacenav, A.enlacenav:visited, A.enlacenav:active, A.enlacenav:focus;A.enlacenav:link
+{
+	color:#494e6b;
+}
+A.enlacenav:HOVER
+{
+	color: white;
+	background:black;
+}
+A
+{
+	color:black;
+}
